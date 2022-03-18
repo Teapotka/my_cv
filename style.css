@@ -436,7 +436,7 @@ overflow-y:hidden;
     height: 100px;
     width: 100px;
     background-color: transparent;
-    margin: 0 10px 0 0;
+    
     align-items: center;
     justify-content: center;
 }
